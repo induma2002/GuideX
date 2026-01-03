@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guidex-Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc2f56c2e4598c19748b4d96fc9ddb6663e08bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5e1619f7ced6c5b7d5f4d2ada5100f35368c5be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guidex-Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Guidex-Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
