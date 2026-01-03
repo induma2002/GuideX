@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/induma/Desktop/Work Flow Guider/Guidex-Backend/Guidex-Backend.csproj": {}
+  },
+  "projects": {
+    "/home/induma/Desktop/Work Flow Guider/Guidex-Backend/Guidex-Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/induma/Desktop/Work Flow Guider/Guidex-Backend/Guidex-Backend.csproj",
+        "projectName": "Guidex-Backend",
+        "projectPath": "/home/induma/Desktop/Work Flow Guider/Guidex-Backend/Guidex-Backend.csproj",
+        "packagesPath": "/home/induma/.nuget/packages/",
+        "outputPath": "/home/induma/Desktop/Work Flow Guider/Guidex-Backend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/induma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "UglyToad.PdfPig": {
+              "target": "Package",
+              "version": "[1.7.0-custom-5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
